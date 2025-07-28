@@ -4,13 +4,16 @@ Documentação:
 
 o Instruções para instalação e execução da aplicação:
 
-1. Salvar o conteudo do pacote lanchonete.zip em algum diretório de acesso permitido pelo sistema.
-2. Executar o arquivo Lanchonete.exe.
-3. Usa o e-mail "gerente@lanchonete.com" e senha: "12345" na tela de acessoa ao sistema.
-4. Nos menos de Cadastros, Cadastrar alguns itens.
-5. O Menu de cadastros foi divido duas rotinas, cadastro de lanches e cadastro de acompanhantes, apenas para melhor compreensão do usuario.
-6. A operação é intuitiva.
-7. Existe dados no banco enviado junto a solução, para melhor vizualização.
+1. Projeto compilado foi dividido em 4 partes para que fosse possivel disponibilizar no repositorio.
+2. Dentro da pasta "Lanchonete2/lanchonete", estão os arquivos com nome: "lanchonete.z01","lanchonete.z02","lanchonete.z03" e "lanchonete.zip".
+3. Baixar esse 3 arquivos para que seja possivel descompactar.
+4. Após, salvar o conteudo do pacote ".zip" em algum diretório de acesso permitido pelo sistema.
+5. Executar o arquivo Lanchonete.exe.
+6. Usa o e-mail "gerente@lanchonete.com" e senha: "12345" na tela de acessoa ao sistema.
+7. Nos menos de Cadastros, Cadastrar alguns itens.
+8. O Menu de cadastros foi divido duas rotinas, cadastro de lanches e cadastro de acompanhantes, apenas para melhor compreensão do usuario.
+9. A operação é intuitiva.
+10. Existe dados no banco enviado junto a solução, para melhor vizualização.
 
 
 
